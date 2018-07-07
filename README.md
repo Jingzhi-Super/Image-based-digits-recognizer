@@ -8,4 +8,5 @@ by MATLAB.
 
 Click INK.m to open the GUI and write numbers.
 
-The program recognizes digits from 0 to 9.
+The program recognizes digits from 0 to 9. Prefer to draw digits in one stroke.
+
